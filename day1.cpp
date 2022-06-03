@@ -6,7 +6,7 @@
 #include <fstream>
 using namespace std;
 
-int main() {
+void one() {
     string str;
     ifstream input("day1.txt");
 
@@ -32,5 +32,4 @@ int main() {
 
     cout << total;
     input.close();
-    return 0;
 }
