@@ -8,8 +8,6 @@
 #include <vector>
 #include <fstream>
 
-#include "day4.h"
-
 using namespace std;
 
 bool isValid(const string &str);

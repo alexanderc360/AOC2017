@@ -4,4 +4,4 @@ project(AOC2017)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(AOC2017
-        day1.cpp day2.cpp main.cpp day1.h day2.h day3.cpp day3.h day4.cpp day4.h)
+        sources/day1.cpp sources/day2.cpp sources/main.cpp headers/day1.h headers/day2.h sources/day3.cpp headers/day3.h sources/day4.cpp headers/day4.h)

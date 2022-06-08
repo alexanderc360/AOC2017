@@ -136,12 +136,12 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "day1.h",
+			"path" : "headers/day1.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
-			"path" : "day2.h",
+			"path" : "headers/day2.h",
 			"sourceGroupIndex" : 1
 		},
 		{
@@ -152,7 +152,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "day3.h",
+			"path" : "headers/day3.h",
 			"sourceGroupIndex" : 1
 		},
 		{
@@ -163,7 +163,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "day4.h",
+			"path" : "headers/day4.h",
 			"sourceGroupIndex" : 1
 		}
 	],

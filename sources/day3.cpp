@@ -2,8 +2,6 @@
 // Created by alex.cohen on 6/8/2022.
 //
 
-#include "day3.h"
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
