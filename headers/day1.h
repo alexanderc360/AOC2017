@@ -5,7 +5,7 @@
 #ifndef AOC2017_DAY1_H
 #define AOC2017_DAY1_H
 
-void one();
+void dayOne();
 
 
 #endif //AOC2017_DAY1_H

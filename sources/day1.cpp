@@ -6,7 +6,7 @@
 #include <fstream>
 using namespace std;
 
-void one() {
+void dayOne() {
     string str;
     ifstream input("day1.txt");
 

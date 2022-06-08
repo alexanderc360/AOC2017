@@ -5,15 +5,18 @@
 #include "../headers/day2.h"
 #include "../headers/day3.h"
 #include "../headers/day4.h"
+#include "../headers/day5.h"
 
 
 int main(){
-    one();
+    dayOne();
 
 //    dayTwo();
 
 //    dayThree();
 
-    dayFour();
+//    dayFour();
+
+    dayFive();
     return 0;
 }
