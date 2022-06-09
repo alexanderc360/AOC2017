@@ -79,11 +79,11 @@ build CMakeFiles/AOC2017.dir/sources/day4.cpp.obj: CXX_COMPILER__AOC2017_Debug C
   OBJECT_DIR = CMakeFiles\AOC2017.dir
   OBJECT_FILE_DIR = CMakeFiles\AOC2017.dir\sources
 
-build CMakeFiles/AOC2017.dir/day5.cpp.obj: CXX_COMPILER__AOC2017_Debug C$:/Users/alex.cohen/Desktop/Alex's$ personal$ code/AOC/AOC2017/day5.cpp || cmake_object_order_depends_target_AOC2017
-  DEP_FILE = CMakeFiles\AOC2017.dir\day5.cpp.obj.d
+build CMakeFiles/AOC2017.dir/sources/day5.cpp.obj: CXX_COMPILER__AOC2017_Debug C$:/Users/alex.cohen/Desktop/Alex's$ personal$ code/AOC/AOC2017/sources/day5.cpp || cmake_object_order_depends_target_AOC2017
+  DEP_FILE = CMakeFiles\AOC2017.dir\sources\day5.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\AOC2017.dir
-  OBJECT_FILE_DIR = CMakeFiles\AOC2017.dir
+  OBJECT_FILE_DIR = CMakeFiles\AOC2017.dir\sources
 
 
 # =============================================================================
@@ -93,7 +93,7 @@ build CMakeFiles/AOC2017.dir/day5.cpp.obj: CXX_COMPILER__AOC2017_Debug C$:/Users
 #############################################
 # Link the executable AOC2017.exe
 
-build AOC2017.exe: CXX_EXECUTABLE_LINKER__AOC2017_Debug CMakeFiles/AOC2017.dir/sources/day1.cpp.obj CMakeFiles/AOC2017.dir/sources/day2.cpp.obj CMakeFiles/AOC2017.dir/sources/main.cpp.obj CMakeFiles/AOC2017.dir/sources/day3.cpp.obj CMakeFiles/AOC2017.dir/sources/day4.cpp.obj CMakeFiles/AOC2017.dir/day5.cpp.obj
+build AOC2017.exe: CXX_EXECUTABLE_LINKER__AOC2017_Debug CMakeFiles/AOC2017.dir/sources/day1.cpp.obj CMakeFiles/AOC2017.dir/sources/day2.cpp.obj CMakeFiles/AOC2017.dir/sources/main.cpp.obj CMakeFiles/AOC2017.dir/sources/day3.cpp.obj CMakeFiles/AOC2017.dir/sources/day4.cpp.obj CMakeFiles/AOC2017.dir/sources/day5.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\AOC2017.dir

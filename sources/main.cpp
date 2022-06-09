@@ -9,7 +9,7 @@
 
 
 int main(){
-    dayOne();
+//    dayOne();
 
 //    dayTwo();
 
