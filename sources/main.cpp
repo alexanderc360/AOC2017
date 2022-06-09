@@ -6,9 +6,10 @@
 #include "../headers/day3.h"
 #include "../headers/day4.h"
 #include "../headers/day5.h"
+#include "../headers/day6.h"
 
 
-int main(){
+int main() {
 //    dayOne();
 
 //    dayTwo();
@@ -17,6 +18,8 @@ int main(){
 
 //    dayFour();
 
-    dayFive();
+//    dayFive();
+
+    daySix();
     return 0;
 }
